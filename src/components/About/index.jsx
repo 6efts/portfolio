@@ -60,7 +60,7 @@ const About = () => {
           logical thinking.
         </p>
         <motion.a
-          href="https://drive.google.com/u/0/uc?id=1Oc32M4qumeXENUu6-grvEUFjMpu7Xkqq&export=download"
+          href="https://drive.google.com/u/0/uc?id=1S1bNe-U7wwrLgxr70Nio4nQHxQtMQgo2&export=download"
           target="_blank"
           className="border-2 border-s-color p-2 inline-block mt-4 rounded text-white hover:bg-s-color duration-300 text-md font-Montserrat"
           download
